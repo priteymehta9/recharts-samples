@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@progress/kendo-drawing": "latest",
+    "@progress/kendo-licensing": "latest",
+    "@progress/kendo-react-charts": "latest",
+    "@progress/kendo-react-intl": "latest",
+    "canvasjs-react-charts": "1.0.5",
+    "hammerjs": "^2.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "recharts": "2.5.0"
+  },
+  "description": "Example usage of KendoReact\nSee [https://www.telerik.com/kendo-react-ui/components/charts/chart/](https://www.telerik.com/kendo-react-ui/components/charts/chart/)",
+  "tags": "React,KendoReact"
+}
